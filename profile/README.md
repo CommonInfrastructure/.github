@@ -7,5 +7,5 @@ Each system is represented by a Repository.
 
 In each repo there are folders for major components.
 
-Under a component there could be additional folders and files.
+Under a component there could be additional folders and files as needed.
 
