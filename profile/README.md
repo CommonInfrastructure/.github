@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-This is a Suggestion of a Github structure for Optimizely Common Infrastructure
+This is a Suggestion of a Github structure for Optimizely Common Infrastructure.
 
 
-Each system is represented by a Repository.
+Each system that we buy/build/run is represented by a Repository.
 
-In each repo there are folders for major components.
+In each repository there are folders for major components.
 
 Under a component there could be additional folders and files as needed.
 
